@@ -1,6 +1,2 @@
-print("changes made on git hub with commit4")
-print("changes made on github to check fetch with commit5")
-print("further changes made on github to check fetch again with commit6")
-print("changees made on local with commit8")
 print("added new line on local commit99")
 print("added new line on github commit10")
